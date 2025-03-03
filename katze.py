@@ -6,6 +6,8 @@ meme_dict = {
     "CREEPY":"korkunç"
     "GG":"İyi Oyun"
     "EZ":"Kolay/kolaydı"
+    "İDC":"Umursamıyorum"
+    "İDK":"Bilmiyorum"
             }
 word = input("Anlamadığınız bir kelime yazın (hepsini büyük harflerle yazın!): ")
 
